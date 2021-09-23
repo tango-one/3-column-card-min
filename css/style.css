@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+
+/*
+
+font-family: 'Lexend Deca', sans-serif;
+
+    font-family: 'Big Shoulders Display', cursive;
+
+    
+
+
+*/
+
+:root {
+
+    PRIMARY
+    --Bright orange: hsl(31, 77%, 52%)
+    --Dark cyan: hsl(184, 100%, 22%)
+    --Very-dark cyan: hsl(179, 100%, 13%)
+
+    NATURAL
+
+    --Transparent white (paragraphs): hsla(0, 0%, 100%, 0.75)
+    --Very-light gray (background, headings, buttons): hsl(0, 0%, 95%)
+
+    TYPOGRAPHY
+
+    --font size 15px
+}
+
+
+body {
+
+
+}
+
+.container {
+    max-width: 1440px;
+    height: 900px;
+    display: flex;
+    background-color: red;
+}
