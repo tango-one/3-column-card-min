@@ -1,2 +1,2 @@
 # 3-column-card-min
- 3 column codementer prosject
+ 3 column codementor prosject
