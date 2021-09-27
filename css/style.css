@@ -42,4 +42,9 @@ body {
     height: 900px;
     display: flex;
     background-color: red;
+    margin: 0 auto;
+}
+
+.column-left {
+    
 }
