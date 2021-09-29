@@ -148,7 +148,8 @@ input[type="button"] {
     border-radius: 50px;
     border: 2px solid white;
     font-size: 20px;
-    color: #E28525;
+    color: #E28525; 
+    
    
     
     
@@ -160,3 +161,60 @@ input[type="button"]:hover {
     color: white;
     cursor: pointer;
 }
+
+
+.btn3 {
+    margin-left: 40px;
+    width: 170px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50px;
+    border: 2px solid white;
+    font-size: 20px;
+    color: #00403F;
+    
+}
+
+.btn3:hover {
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+
+.btn2 {
+    margin-left: 40px;
+    width: 170px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50px;
+    border: 2px solid white;
+    font-size: 20px;
+    color: #00403F;
+    
+}
+
+.btn2:hover {
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+
+.btn1 {
+    margin-left: 40px;
+    width: 170px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50px;
+    border: 2px solid white;
+    font-size: 20px;
+    color: #E28525;
+    
+    
+}
+
+.btn1:hover {
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+}
+
