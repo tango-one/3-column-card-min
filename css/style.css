@@ -158,4 +158,5 @@ input[type="button"] {
 input[type="button"]:hover {
     background-color: transparent;
     color: white;
+    cursor: pointer;
 }
