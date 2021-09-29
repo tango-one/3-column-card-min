@@ -99,6 +99,7 @@ body {
     margin: 40px;
     margin-top: 40px;
     font-size: 15px;
+    line-height: 23px;
     
     color: white;
 }
@@ -147,9 +148,14 @@ input[type="button"] {
     border-radius: 50px;
     border: 2px solid white;
     font-size: 20px;
+    color: #E28525;
+   
+    
     
 }
 
+
 input[type="button"]:hover {
     background-color: transparent;
+    color: white;
 }
